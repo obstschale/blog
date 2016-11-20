@@ -70,7 +70,7 @@ If every think goes well, deployer will create next structure on server in `depl
 ```
 
 * `releases` dir contains *deploy* releases of *Laravel* application,
-* `shared` dir contains `.env` config and `stogare` which will be symlinked to each release,
+* `shared` dir contains `.env` config and `storage` which will be symlinked to each release,
 * `currect` is symlink to last release,
 * `.dep` dir contains special metadata for deployer (releases log, `deploy.log` file, etc).
 
