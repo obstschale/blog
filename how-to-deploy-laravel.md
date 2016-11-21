@@ -96,3 +96,5 @@ Now you will be able to serve you **laravel project**:
 </div>
 
 More about configuration and task declarations in our [documentation](/docs).
+
+...
