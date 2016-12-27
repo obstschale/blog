@@ -20,7 +20,7 @@ chmod +x /usr/local/bin/dep
 Next, in your projects directory run:
 
 ```sh
-dep init -t Laravel
+dep init Laravel
 ```
 
 Command will create `deploy.php` file for *deploying Laravel*. This file called *recipe* and based on built-in recipe *laravel.php*.
